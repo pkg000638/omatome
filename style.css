@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+label, select, button {
+  font-size: 1.2em;
+  margin: 10px;
+}
+
+#result {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 20px;
+}

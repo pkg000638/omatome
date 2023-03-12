@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>月額計算アプリ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>月額計算アプリ</h1>
+  <form>
+    <label for="car">車種:</label>
+    <select id="car">
+      <option value="A">デイズ 3年</option>
+      <option value="B">デイズ 5年</option>
+      <option value="C">ルークス 3年</option>
+      <option value="D">ルークス 5年</option>
+      <option value="E">ノート 3年</option>
+      <option value="F">ノート 5年</option>
+      <option value="G">オーラ 3年</option>
+      <option value="H">オーラ 5年</option>
+      <option value="I">セレナ 3年</option>
+      <option value="J">セレナ 5年</option>
+      <option value="K">サクラ 5年</option>
+    </select>
+    <button type="button" onclick="calculate()">月額を計算</button>
+  </form>
+  <div id="result"></div>
+  <script src="script.js"></script>
+</body>
+</html>
