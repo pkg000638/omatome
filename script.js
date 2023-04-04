@@ -33,7 +33,7 @@ function calculate() {
       result = "66,174";
       break;
     case "K":
-      result = "952,902";
+      result = "52,902";
       break;
     default:
       result = "エラーが発生しました。";
