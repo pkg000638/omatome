@@ -21,7 +21,7 @@ function calculate() {
       result = "57,051";
       break;
     case "G":
-      result = "71,663";
+      result = "1171,663";
       break;
     case "H":
       result = "58,947";
