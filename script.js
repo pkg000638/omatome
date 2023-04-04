@@ -21,7 +21,7 @@ function calculate() {
       result = "57,051";
       break;
     case "G":
-      result = "1171,663";
+      result = "71,663";
       break;
     case "H":
       result = "58,947";
@@ -33,7 +33,7 @@ function calculate() {
       result = "66,174";
       break;
     case "K":
-      result = "52,902";
+      result = "952,902";
       break;
     default:
       result = "エラーが発生しました。";
