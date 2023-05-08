@@ -35,6 +35,9 @@ function calculate() {
     case "K":
       result = "52,902";
       break;
+    case "L":
+      result = "12,000,000";
+      break;  
     default:
       result = "エラーが発生しました。";
   }
